@@ -1,0 +1,4 @@
+#Tue Feb 25 15:16:34 EST 2020
+base.0=/Users/davesong/AndroidStudioProjects/CurrencyConverter/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
